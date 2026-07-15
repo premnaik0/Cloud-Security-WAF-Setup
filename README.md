@@ -4,6 +4,19 @@ AWS WAF is a web application firewall that helps protect web applications or API
 
 In this lab, I built a custom Web ACL named "learning-web-acl" targeting regional infrastructure in the Ohio (us-east-2) region.
 
+
+(screenshots/01-web-acl-overview.png)
+web-acl-overview
+
+(screenshots/02-custom-rule-json.png)
+custom-rule-jso
+
+(screenshots/02-custom-rule-json 2.png)
+custom-rule-json
+
+(screenshots/03-bot-traffic-dashboard.png)
+bot-traffic-dashboard
+
 ### Key Learning Objectives
 
 - Provisioning a Web ACL from scratch using custom, cost-optimized rule configurations.
